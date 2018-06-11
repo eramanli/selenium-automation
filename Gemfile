@@ -1,0 +1,10 @@
+source 'https://rubygems.org'
+
+gem 'selenium-cucumber'
+gem 'selenium-webdriver'
+gem 'cucumber'
+gem 'rails'
+gem 'watir', '~>4.0'
+gem 'watir-webdriver'
+gem 'page-object'
+gem 'pry'

@@ -1,5 +1,5 @@
 
-# imademethink_webautomation_Ruby
+# webautomation_Ruby
 Selenium automation using Ruby, Cucumber and Selenium
 
 NOTE You will need the following installed on your machine:
